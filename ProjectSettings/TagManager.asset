@@ -8,6 +8,8 @@ TagManager:
   - Flame
   - Water
   - Destroyer
+  - TutorialCanvas
+  - Guidance
   layers:
   - Default
   - TransparentFX
