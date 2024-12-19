@@ -1,18 +1,14 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# VR-Tutorial
+ A tutorial for interacting with virtual reality, taught through a hand panel with text and videos.
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+ The tutorial itself does not require any scripts or objects outside of those in the hand panel and guidance arrows, making it easy to add to another project.
+ The tutorial's content can easily be modified and expanded through accessing a single script and its' assets.
 
-https://youtu.be/apnfGuMI0Dc
+# External Resources
+This project uses a combination of these public assets and tutorials :
 
-# External Ressources
-This project uses a combination of these assets and tutorials :
+https://www.youtube.com/watch?v=6PSLfRsN89g
 
-https://youtu.be/6OT43pvUyfY
+https://github.com/ValemVR/VR-Game-Jam-Template
 
-https://youtu.be/JCyJ26cIM0Y
-
-https://kenney.nl/assets?q=audio
-
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
+The map itself is not publicly available, but was given to use by the University of Oulu for this project.
